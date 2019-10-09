@@ -1,6 +1,6 @@
 # SimpleValine,Based on [Valine](https://valine.js.org)
 
-本站点评论框架采用 [Valine](https://valine.js.org)，非常喜欢它来搭配 Hexo。
+https://ashin.wang 评论框架采用 [Valine](https://valine.js.org)，非常喜欢它来搭配 Hexo。
 
 Valine的优点：
 + 不需要注册，支持匿名评论
