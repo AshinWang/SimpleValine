@@ -8,11 +8,8 @@ Valine的优点：
 + 支持邮件提醒
 + 多个部署，调用同一个LeanCloud
 
-针对Valine，再次进行了简化，更加简洁。
+针对Valine，冒昧再次进行了简化，使其更加简洁。
 ![](https://tva1.sinaimg.cn/large/006y8mN6ly1g6zg5fxdjgj30mx09gt90.jpg)
-
-
-<!--more-->
 
 ## 1.原版的Valine
 原版[Valine在这里](https://valine.js.org)，具体的安装使用可参考原作者的 [Valine使用](https://valine.js.org)。
